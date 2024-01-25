@@ -1,0 +1,16 @@
+{
+  "name": "identity-challenge-2022",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@identity.com/sol-did-client": "^3.1.4",
+    "@solana/web3.js": "^1.66.2",
+    "ethers": "^5.7.2"
+  }
+}
