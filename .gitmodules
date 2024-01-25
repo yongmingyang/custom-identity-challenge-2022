@@ -1,0 +1,3 @@
+[submodule "identity-challenge-2022"]
+	path = identity-challenge-2022
+	url = https://github.com/identity-com/identity-challenge-2022
